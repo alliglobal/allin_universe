@@ -5,7 +5,9 @@ import com.mashape.unirest.http.JsonNode;
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
 import org.json.JSONObject;
-import sun.misc.BASE64Encoder;
+// import sun.misc.BASE64Encoder;
+//more: https://stackoverflow.com/questions/73462544/mvn-clean-install-error-cannot-find-symbol-symbol-class-base64encoder-locatio
+import java.util.Base64;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
@@ -31,8 +33,9 @@ public class AliyunUtil {
             mdTemp = MessageDigest.getInstance("MD5");
             mdTemp.update(utfBytes);
             byte[] md5Bytes = mdTemp.digest();
-            BASE64Encoder b64Encoder = new BASE64Encoder();
-            encodeStr = b64Encoder.encode(md5Bytes);
+            // Base64.Encoder b64Encoder = new Base64.getEncoder();
+            Base64.Encoder b64Encoder =  Base64.getEncoder();
+            encodeStr = b64Encoder.encodeToString(md5Bytes);
         } catch (Exception e) {
             throw new Error("Failed to generate MD5 : " + e.getMessage());
         }
@@ -50,7 +53,10 @@ public class AliyunUtil {
             Mac mac = Mac.getInstance("HmacSHA1");
             mac.init(signingKey);
             byte[] rawHmac = mac.doFinal(data.getBytes());
-            result = (new BASE64Encoder()).encode(rawHmac);
+            // result = (new BASE64Encoder()).encode(rawHmac);
+            // result = (new Base64.getEncoder().encode(rawHmac);
+            Base64.Encoder encoder = Base64.getEncoder();  
+            result = encoder.encodeToString(rawHmac);
         } catch (Exception e) {
             throw new Error("Failed to generate HMAC : " + e.getMessage());
         }

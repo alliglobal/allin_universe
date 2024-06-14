@@ -9,7 +9,7 @@ import lombok.Setter;
 
 /**
  * 保证金状态
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2019/5/5
  */
 @AllArgsConstructor

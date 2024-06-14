@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * @Description: 查询个人分红数据
- * @author: GuoShuai
+ * @author: Inspire
  * @date: create in 11:25 2018/7/3
  * @Modified:
  */

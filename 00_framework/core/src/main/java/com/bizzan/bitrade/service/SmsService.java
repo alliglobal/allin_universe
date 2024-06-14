@@ -9,7 +9,7 @@ import com.bizzan.bitrade.service.Base.BaseService;
 
 /**
  * @Description:
- * @author: GuoShuai
+ * @author: Inspire
  * @date: create in 9:44 2018/6/28
  * @Modified:
  */

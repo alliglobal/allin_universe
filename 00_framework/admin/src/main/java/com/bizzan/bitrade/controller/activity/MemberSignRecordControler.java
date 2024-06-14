@@ -16,7 +16,7 @@ import com.bizzan.bitrade.service.MemberSignRecordService;
 import com.bizzan.bitrade.util.MessageResult;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @Description: 会员签到记录
  * @date 2019/5/4
  */

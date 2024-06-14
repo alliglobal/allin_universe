@@ -29,7 +29,7 @@ import static org.springframework.util.Assert.isNull;
 import static org.springframework.util.Assert.notNull;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @description otc币种
  * @date 2019/1/11 13:35
  */

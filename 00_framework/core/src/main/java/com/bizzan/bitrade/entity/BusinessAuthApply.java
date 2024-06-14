@@ -16,7 +16,7 @@ import java.util.Map;
 
 /**
  * 商家认证申请信息
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2019/5/5
  */
 @Entity

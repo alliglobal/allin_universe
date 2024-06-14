@@ -8,7 +8,7 @@ import com.bizzan.bitrade.entity.DepositRecord;
 import com.bizzan.bitrade.entity.Member;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2019/5/7
  */
 public interface DepositRecordDao extends BaseDao<DepositRecord> {

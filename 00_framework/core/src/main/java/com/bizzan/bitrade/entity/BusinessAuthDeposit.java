@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  * 商家认证缴纳押金的币种和数量
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2019/5/5
  */
 @Entity

@@ -19,7 +19,7 @@ import java.util.concurrent.RecursiveTask;
 
 /**
  * @Description:
- * @Author: GuoShuai
+ * @author: Inspire
  * @Date: 2018/8/1 下午4:27
  */
 @Slf4j

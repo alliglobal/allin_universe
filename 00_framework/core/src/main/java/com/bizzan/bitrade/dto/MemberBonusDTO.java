@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  * @Description: 持币分红表
- * @author: GuoShuai
+ * @author: Inspire
  * @date: create in 16:13 2018/6/30
  * @Modified:
  */

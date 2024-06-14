@@ -15,7 +15,7 @@ import com.bizzan.bitrade.service.WebsiteInformationService;
 import com.bizzan.bitrade.util.MessageResult;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @description 站点信息
  * @date 2019/1/26 10:41
  */

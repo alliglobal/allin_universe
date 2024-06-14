@@ -11,7 +11,7 @@ import com.bizzan.bitrade.service.OrderDetailAggregationService;
 import com.bizzan.bitrade.util.DateUtil;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2019年03月22日
  */
 @RunWith(SpringRunner.class)

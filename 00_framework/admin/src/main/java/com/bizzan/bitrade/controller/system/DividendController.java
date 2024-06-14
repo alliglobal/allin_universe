@@ -35,7 +35,7 @@ import java.util.stream.Collectors;
 /**
  * 分红
  *
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2019年03月21日
  */
 @Slf4j

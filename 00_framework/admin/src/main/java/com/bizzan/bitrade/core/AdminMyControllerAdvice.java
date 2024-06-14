@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.bizzan.bitrade.util.MessageResult;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2018年12月22日
  */
 @ControllerAdvice

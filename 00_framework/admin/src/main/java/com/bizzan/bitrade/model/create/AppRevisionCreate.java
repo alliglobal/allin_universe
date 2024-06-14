@@ -10,7 +10,7 @@ import com.bizzan.bitrade.entity.AppRevision;
 import javax.validation.constraints.NotNull;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @Title: ${file_name}
  * @Description:
  * @date 2019/4/2416:33

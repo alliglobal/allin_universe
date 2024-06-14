@@ -6,7 +6,7 @@ import javax.persistence.*;
 
 /**
  * @Description:
- * @author: GuoShuai
+ * @author: Inspire
  * @date: create in 21:23 2018/6/27
  * @Modified:
  */

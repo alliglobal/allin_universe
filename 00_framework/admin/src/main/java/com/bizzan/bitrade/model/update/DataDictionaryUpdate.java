@@ -7,7 +7,7 @@ import com.bizzan.bitrade.ability.UpdateAbility;
 import com.bizzan.bitrade.entity.DataDictionary;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @Title: ${file_name}
  * @Description:
  * @date 2019/4/1214:46

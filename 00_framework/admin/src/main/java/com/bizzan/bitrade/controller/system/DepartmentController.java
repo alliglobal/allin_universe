@@ -21,7 +21,7 @@ import com.bizzan.bitrade.util.MessageResult;
 import javax.validation.Valid;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2018年12月20日
  */
 @RestController

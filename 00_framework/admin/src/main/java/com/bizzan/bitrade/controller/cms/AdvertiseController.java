@@ -36,7 +36,7 @@ import static com.bizzan.bitrade.entity.QSysAdvertise.sysAdvertise;
 import static org.springframework.util.Assert.notNull;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @description 系统广告
  * @date 2019/1/6 15:03
  */

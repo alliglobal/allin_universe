@@ -61,7 +61,7 @@ import com.querydsl.core.types.dsl.BooleanExpression;
 import com.sparkframework.security.Encrypt;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @description 币币交易手续费
  * @date 2019/1/19 15:16
  */

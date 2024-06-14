@@ -24,7 +24,7 @@ import java.util.ArrayList;
 
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @description 公告
  * @date 2019/3/5 15:25
  */

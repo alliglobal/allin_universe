@@ -16,7 +16,7 @@ import javax.servlet.http.HttpSession;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @date 2019年12月19日
  */
 @Component

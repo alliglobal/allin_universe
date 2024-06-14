@@ -70,7 +70,7 @@ import com.querydsl.core.types.dsl.BooleanExpression;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author Shaoxianjun
+ * @author: DreamPlex
  * @description 后台货币web
  * @date 2018/12/29 15:01
  */
